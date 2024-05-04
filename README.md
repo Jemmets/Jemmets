@@ -1,4 +1,4 @@
-<h2 align="left">Hola, Ni Hao and Hello 👋! <br><br>My name is Emmet and I'm a security analyst living in Ireland.</h2>
+<h2 align="left">Hola, Ni Hao and Hello 👋! <br><br></h2>
 
 ###
 
